@@ -1,1 +1,1 @@
-http://141.11.127.188:8080/memfs/67acb14d-9210-461b-a20f-13d08eb4857f_output_0.m3u8
+vless://0a449133-c5ab-4c1a-ad72-d43cfa56fb88@de2.ispfucker.com:12744?allowInsecure=1&alpn=http%2F1.1&fp=ios&security=tls&sni=gs2.ww.prod.dl.playstation.net&type=tcp#ps-hmmmnaru62052
